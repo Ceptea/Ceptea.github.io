@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(10, 10, 10);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button {
+    transition: all 150ms;
+    padding: 1% 1.5%;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(67, 0, 129);
+    
+}
+
+.button:hover {
+
+    background-color: rgb(84, 1, 161);
+}
+
+
+.button:active {
+
+    background-color: rgb(85, 3, 161);
+}
+.buttonbig {
+    transition: all 150ms;
+    padding: 5% 10%;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(67, 0, 129);
+}
+
+.buttonbig:hover {
+
+    background-color: rgb(84, 1, 161);
+}
+.bar {
+
+    background-color: rgb(67, 0, 129);
+    padding: 1% 10%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px rgb(41, 0, 78)
+
+}
+
+.content {
+
+    background-color: rgb(5, 5, 5);
+    border-radius: 5px;
+    padding: 15%;
+    margin: 5% 5%;
+    
+}
+
+.project {
+    transition: all 150ms;
+    display: inline-block;
+
+    border-radius: 25px;
+    background-color: rgb(8, 8, 8);
+    box-shadow: 5px 5px 5px rgb(7, 7, 7);
+    padding: 2% 2%;
+
+    
+
+}
+.project:hover {
+
+}
+
+img {
+    border-radius: 15px;
+    
+}
