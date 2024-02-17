@@ -16,7 +16,6 @@ body {
 .button:hover {
 
     background-color: rgb(84, 1, 161);
-    
 }
 
 
@@ -36,14 +35,13 @@ body {
 .buttonbig:hover {
 
     background-color: rgb(84, 1, 161);
-    box-shadow: 5px 5px 25px rgb(41, 0, 78)
+    box-shadow: 5px 5px 15px rgb(41, 0, 78)
 }
 .bar {
 
     background-color: rgb(67, 0, 129);
     padding: 1% 10%;
     border-radius: 5px;
-    box-shadow: 5px 5px 2px rgb(41, 0, 78)
 
 }
 
@@ -70,11 +68,8 @@ body {
 
 }
 .project:hover {
-    box-shadow: 5px 5px 25px rgb(41, 0, 78)
-
 }
 
 img {
     border-radius: 15px;
-    
 }
