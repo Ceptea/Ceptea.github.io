@@ -11,12 +11,12 @@ body {
     color: white;
     text-decoration: none;
     background-color: rgb(67, 0, 129);
-    
 }
 
 .button:hover {
 
     background-color: rgb(84, 1, 161);
+    
 }
 
 
@@ -36,6 +36,7 @@ body {
 .buttonbig:hover {
 
     background-color: rgb(84, 1, 161);
+    box-shadow: 5px 5px 25px rgb(41, 0, 78)
 }
 .bar {
 
@@ -64,10 +65,12 @@ body {
     box-shadow: 5px 5px 5px rgb(7, 7, 7);
     padding: 2% 2%;
 
+    margin: 5px;
     
 
 }
 .project:hover {
+    box-shadow: 5px 5px 25px rgb(41, 0, 78)
 
 }
 
