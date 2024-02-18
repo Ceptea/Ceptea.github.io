@@ -97,7 +97,10 @@ body {
 
 }
 
-.project:hover {}
+.project:hover {
+    box-shadow: 5px 5px 5px rgb(124, 0, 233);
+
+}
 
 img {
     border-radius: 15px;
