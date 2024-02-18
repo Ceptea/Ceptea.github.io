@@ -89,7 +89,7 @@ body {
 
     margin: 5px;
 
-    animation: hehe 1s cubic-bezier(0.87, 0, 0.13, 1) 0s 1 normal forwards;
+    animation: hehe 0.7s cubic-bezier(0.1, 0, 0, 1) 0s 1 normal forwards;
 
 
 }
@@ -97,10 +97,13 @@ body {
 
 }
 
-.project:hover {}
+.project:hover {
+
+}
 
 img {
     border-radius: 15px;
+
 }
 
 #crash-log,
