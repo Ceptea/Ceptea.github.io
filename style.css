@@ -93,14 +93,8 @@ body {
 
 
 }
-* {
 
-}
 
-.project:hover {
-    box-shadow: 0px 0px 10px rgb(67, 0, 129);
-
-}
 
 img {
     border-radius: 15px;
