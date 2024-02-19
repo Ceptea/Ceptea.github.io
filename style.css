@@ -26,7 +26,8 @@ body {
 
 .nicebutton{
     transition: all 150ms;
-    padding: 0.5% 0.5%;
+    border: none;
+    padding: 1.5% 1.5%;
     border-radius: 5px;
     color: white;
     text-decoration: none;
@@ -34,16 +35,20 @@ body {
     display: inline-block;
 }
 
+
 .button:hover {
 
     background-color: rgb(84, 1, 161);
     
 }
 
-
+canvas {
+]
+}
 .button:active, .buttonbig:active, .nicebutton:active {
 
     background-color: rgb(102, 0, 192);
+    box-shadow: 5px 5px 55px rgb(102, 0, 192);
 }
 
 .buttonbig {
